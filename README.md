@@ -12,6 +12,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div><br>
 
+<a href="https://github.com/NilayPawale/HandyMart/tree/main/Web%20Portal">Handy Mart Web Portal</a>
+
 Handy-Mart is an e-commerce platform catering to a diverse customer base, offering a variety of products including electronics, fashion, home goods, and groceries. The web application is built using modern web technologies to ensure responsiveness, accessibility, and performance. The project will focus on delivering an intuitive user interface, robust backend services, and secure payment processing.
 
 # Features
